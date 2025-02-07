@@ -19,16 +19,15 @@ The dashboard provides key insights into **top-selling models, country-wise reve
 
 ## 📂 Repository Structure  
 - `BMW_Sales_Analysis.pbix` - Power BI Dashboard File  
-- `Dataset.xlsx` - Cleaned data used for analysis  
+- `BMW_Dataset.xlsx` - Cleaned data used for analysis  
 - `README.md` - Project documentation  
-- `Screenshots/` - Folder with dashboard images  
+- `BMW Dashboard img`, `BMW Data Model` - dashboard images  
 
 ##  Tools Used  
 ✔ Power BI   
 ✔ Power Querry
 
-## 🎯 Future Enhancements  
-- Build a **machine learning model** for advanced revenue forecasting.  
+## 🎯 Future Enhancements    
 - Integrate **real-time data updates** using APIs.  
 - Develop a **mobile-friendly dashboard version**.  
 
